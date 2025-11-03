@@ -1,12 +1,32 @@
-- 👋 Hi, I’m @babxlims
-- 👀 I’m interested in musics,psichylogy,museum,photography,creation
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+# Olá, eu sou a Barbara Lima 👋
 
-<!---
-babxlims/babxlims is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonada por desenvolvimento web. Estou sempre em busca de aprender novas tecnologias e aplicar meus conhecimentos em projetos práticos, do front-end ao back-end.
+
+---
+
+## 💻 Tecnologias que uso
+
+- **Front-end:** HTML5, CSS3, JavaScript, React, TypeScript  
+- **Back-end / Banco de dados:** SQL básico (MySQL/PostgreSQL), Node.js (opcional)  
+- **Ferramentas:** Git, GitHub, VS Code, NPM, APIs REST  
+
+---
+
+## 🚀 Projetos destacados
+
+- **[Cherry Shine](link do projeto)** – Portfólio em React + TypeScript (em construção)  
+- **Projetos em HTML, CSS e JS** – Sites estáticos e interativos  
+- **Projetos em React/TypeScript** – Aplicações web com componentes, rotas e estado  
+
+*Mais detalhes de cada projeto nos respectivos repositórios.*
+
+---
+
+## 📫 Como me encontrar
+
+- LinkedIn: https://linkedin.com/in/babxlims
+- E-mail: barbara_lima2002@hotmail.com
+
+---
+
+> “Sempre aprendendo, sempre codando. Cada linha de código é um passo a mais na minha carreira.”
