@@ -14,7 +14,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonada p
 
 ## 🚀 Projetos destacados
 
-- **[Cherry Shine](link do projeto)** – Portfólio em React + TypeScript (em construção)  
+- **[Cherry Shine](https://babxlims.github.io/cherryshine/)** – Portfólio em React + TypeScript (em construção)  
 - **Projetos em HTML, CSS e JS** – Sites estáticos e interativos  
 - **Projetos em React/TypeScript** – Aplicações web com componentes, rotas e estado  
 
